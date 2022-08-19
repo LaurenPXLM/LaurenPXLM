@@ -1,8 +1,8 @@
 - @LaurenPXLM
-- Hardware dept. and imaging
+- Hardware / repairs
 - email: lauren@pixelmachinery.com
-- best reached by email or Slack 
-- working on Python automations for machine inventory. 
+- best reached by email, slack
+- working on ...
 
 <!---
 LaurenPXLM/LaurenPXLM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
